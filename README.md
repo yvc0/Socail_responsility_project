@@ -34,5 +34,3 @@ Why This Project?
 	•	Applies Advanced ML Techniques: Uses predictive analytics, deep learning, and recommendation systems.
 	•	Real-World Impact: Helps businesses and individuals optimize food usage, benefiting both the environment and underprivileged communities.
 	•	Showcases Technical Expertise: Demonstrates data science, machine learning model development, cloud deployment, and app integration.
-
-This project is a perfect addition to your resume, highlighting both technical proficiency and a strong commitment to social responsibility.
